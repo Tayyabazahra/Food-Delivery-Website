@@ -16,9 +16,3 @@ This project is a **responsive food delivery website** designed to provide users
 - **Database**: MongoDB  
 - **Hosting**: Vercel (Frontend), Heroku (Backend)  
 - **Styling**: CSS, TailwindCSS  
-
-## Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Tayyabazahra/Food-Delivery-Website.git
-   cd Food-Delivery-Website
