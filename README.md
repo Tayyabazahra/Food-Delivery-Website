@@ -1,5 +1,4 @@
 # Food Delivery Website 🚀  
-[Live Demo](https://combo-project-client.vercel.app/)  
 
 This project is a **responsive food delivery website** designed to provide users with an intuitive interface to explore menus, place orders, and enjoy smooth navigation. The platform enhances the online food ordering experience with modern web design and efficient backend functionality.  
 
